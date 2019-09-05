@@ -1,0 +1,106 @@
+h1 {
+ font-family: 'Fjalla One', sans-serif;
+ font-size: 49px;
+ line-height: 70px;
+ text-align: left;
+ margin-left: 30px;
+ color: white;
+}
+
+header {
+	background-color: #C97070 ;
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    box-shadow: 0 0 10px 0 black;
+}
+
+ul {
+ font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+ font-size: 20px;
+}
+
+header * {
+	display: inline;
+
+}
+
+header li {
+	margin: 20px;
+	color: #ABABAB;
+}
+
+header li a {
+	color: white;
+	text-decoration: none;
+}
+
+body {
+	margin-top: 80px;
+	padding: 30px;
+}
+
+
+h3 {
+ font-family: 'Fjalla One', sans-serif;
+ font-size: 70px;
+ line-height: 45px;
+ color: #C97070;
+}
+
+h5 {
+ font-family: 'Fjalla One', sans-serif;
+ font-size: 25px;
+ line-height: 45px;
+}
+
+p {
+ font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 25px;
+}
+
+p.music{
+ font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 25px;
+ max-width: 620px;
+}
+
+[alt="Singing in Poland"] {
+	float: right;
+}
+
+[alt="Playing piano"] {
+	float:right;
+}
+
+ol.Movie-Theory {
+ font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 25px;
+}
+
+ul.Favorite-Movies {
+ font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ line-height: 20px;
+}
+
+[alt="Gladiator"] {
+	float: right;
+}
+
+[alt="Pride and Prejudice"] {
+	float: right;
+}
+
+[alt="West Side Story"] {
+	float: right;
+}
+
+[alt="La La Land"]{
+	float: right;
+}
